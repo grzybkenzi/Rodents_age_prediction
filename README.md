@@ -1,4 +1,4 @@
-![Logo](https://cdn.holderspestsolutions.com/wp-content/uploads/2015/11/meadow-vole.jpg)
+![Logo](https://www.victorpest.com/media/Articles/Victorpest/What-is-A-Vole.jpg)
 
 
 # Rodents age prediction
