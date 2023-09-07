@@ -7,4 +7,5 @@ The project was developed for the Institute of Maritime and Tropical Medicine in
 
 ## Author
 
-- [@grzybkenzi](https://www.github.com/grzybkenzi)
+
+[@grzybkenzi](https://github.com/grzybkenzi)
